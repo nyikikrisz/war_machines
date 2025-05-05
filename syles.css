@@ -21,5 +21,4 @@ body{
 }
 tbody{
     tr:nth-child(even) {background-color: black; color: rgb(233, 212, 0);}
-    height: 50px;
 }
