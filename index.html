@@ -3,9 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Toplista</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    
+
+    <div class="poll-container">
+        <h1>Melyik volt a kedvenc tankod az emlitettek kozul?</h1>
+
+        <form id="pollForm">
+            <label>
+                <input type="radio" name="color" value="Tank1" /> Tank1
+            </label><br>
+            <label>
+                <input type="radio" name="color" value="Tank2" /> Tank2
+            </label><br>
+            <label>
+                <input type="radio" name="color" value="Tank3" /> Tank3
+            </label><br>
+            <label>
+                <input type="radio" name="color" value="Tank4" /> Tank4
+            </label><br>
+            <label>
+                <input type="radio" name="color" value="Tank5" /> Tank5
+            </label><br>
+            
+            
+            
+            <button type="submit" id="submitBtn">Vote</button>
+        </form>
+
+        <div id="result" class="result">
+            <h2>Erre szavaztal</h2>
+            <p id="resultText">No votes yet.</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
 </body>
 </html>
