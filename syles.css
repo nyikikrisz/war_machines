@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+body{
+    background-color: rgb(233, 212, 0);
+}
+.thead{
+    background-color: rgb(0, 0, 0);
+    color: rgb(233, 212, 0);
+}
+.head{
+    background-image: url(banner.jpg);
+    height: 70px;
+    color: rgb(0, 0, 0);
+
+}
+tbody{
+    tr:nth-child(even) {background-color: black; color: rgb(233, 212, 0);}
+}
+.zaszlo{
+    border: 5px solid #000000;
+    border-radius: 8px;
+    width: 100px;
+  }
+.repulo{
+    width: 150px;
+  }
