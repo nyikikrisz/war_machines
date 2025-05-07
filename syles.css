@@ -22,3 +22,11 @@ body{
 tbody{
     tr:nth-child(even) {background-color: black; color: rgb(233, 212, 0);}
 }
+.zaszlo{
+    border: 5px solid #000000;
+    border-radius: 8px;
+    width: 100px;
+  }
+.repulo{
+    width: 150px;
+  }
