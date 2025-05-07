@@ -90,7 +90,7 @@ tbody{
 
 ### 🔧 Fejlesztési lehetőségek
 
-- [ ]  🎮 Építs egy tankot játék (Javascript hozzáadása)
+- [ ]  🎮 Tankos játék (Javascript hozzáadása)
 - [ ]  🚩 Az elkészült tankok rangsorolása
 - [x] 📱  Reszponzív megjelenítés 
 
