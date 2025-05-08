@@ -96,4 +96,4 @@ tbody{
 
 
 ## 🪢 Oldal Linkje
-🏗️ [ War Machines ] ()
+🏗️ [ War Machines ] (https://nyikikrisz.github.io/war_machines/index.html)
